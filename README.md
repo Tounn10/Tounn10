@@ -3,8 +3,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=tounn10&label=Profile%20views&color=0e75b6&style=flat" alt="tounn10" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=tounn10" alt="tounn10" /></a> </p>
-
 - 🔭 I’m currently working on [Private portfolio](https://github.com/Tounn10/Personnal-portfolio.git)
 
 - 🌱 I’m currently learning **Dart (Flutter), Django & MySQL**
