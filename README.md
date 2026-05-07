@@ -5,9 +5,9 @@
 
 - 🔭 I’m currently working on [Private portfolio](https://github.com/Tounn10/Personnal-portfolio.git)
 
-- 🌱 I’m currently learning **Dart (Flutter), Django & MySQL**
+- 🌱 I’m currently learning **Unreal Engine, TypeScript & JavaScript**
 
-- 👯 I’m looking to collaborate on [AREA](https://github.com/LucaMartinet7/Area-Tek3.git)
+- 👯 I’m currently collaborating on [Eclyps] (Unreal Engine 5 Game for my end of studies project)
 
 - 📫 How to reach me **etienne.namur@epitech.eu**
 
