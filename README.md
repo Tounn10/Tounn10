@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **Unreal Engine, TypeScript & JavaScript**
 
-- 👯 I’m currently collaborating on [Eclyps] (Unreal Engine 5 Game for my end of studies project)
+- 👯 I’m currently collaborating on Eclyps (Unreal Engine 5 Game for my end of studies project)
 
 - 📫 How to reach me **etienne.namur@epitech.eu**
 
